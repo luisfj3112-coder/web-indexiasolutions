@@ -5,4 +5,4 @@ nixPkgs = ["nodejs_20"]
 cmds = ["npm ci", "npm run build"]
 
 [variables]
-width = 4096
+NODE_OPTIONS = "--max-old-space-size=4096"
