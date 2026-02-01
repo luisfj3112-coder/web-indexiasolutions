@@ -26,7 +26,7 @@ const PrivacyPolicy = () => {
                                 <li><strong>Titular:</strong> Idexia Solutions</li>
                                 <li><strong>Servicios:</strong> Consultoría y Automatización con IA Agentic.</li>
                                 <li><strong>Localización:</strong> Barcelona, España.</li>
-                                <li><strong>Contacto Directo:</strong> <a href="mailto:relat@indexiasolutions.com">relat@indexiasolutions.com</a></li>
+                                <li><strong>Contacto Directo:</strong> <a href="mailto:relat@idexiasolutions.com">relat@idexiasolutions.com</a></li>
                                 <li><strong>Finalidad:</strong> Gestión de clientes y optimización de procesos mediante IA.</li>
                             </ul>
                         </section>

@@ -12,7 +12,9 @@ const Nav = ({ scrollToSection }) => (
     <div className="container">
       <div className="nav-left">
         <Link to="/" className="logo-link">
-          <h1 className="logo-text">Idexia <span className="logo-sub">solutions</span></h1>
+          <Link to="/" className="logo-link">
+            <h1 className="logo-text">Idex<span className="text-highlight">IA</span> <span className="logo-sub">solutions</span></h1>
+          </Link>
         </Link>
       </div>
       <ul className="nav-links">
@@ -34,7 +36,9 @@ const Footer = ({ scrollToSection }) => (
     <div className="container footer-grid">
       <div className="footer-col company-info">
         <Link to="/" className="logo-link">
-          <h1 className="logo-text">Idexia <span className="logo-sub">solutions</span></h1>
+          <Link to="/" className="logo-link">
+            <h1 className="logo-text">Idex<span className="text-highlight">IA</span> <span className="logo-sub">solutions</span></h1>
+          </Link>
         </Link>
         <p className="footer-tagline">
           Comienza la automatización de tu empresa o negocio con <strong>Idexia Solutions</strong> y nuestros servicios de Inteligencia Artificial para mejorar la productividad.
@@ -87,7 +91,7 @@ const Footer = ({ scrollToSection }) => (
           <h4>Contacto</h4>
         </div>
         <ul className="footer-list contact-list">
-          <li><a href="mailto:relat@indexiasolutions.com">relat@indexiasolutions.com</a></li>
+          <li><a href="mailto:relat@idexiasolutions.com">relat@idexiasolutions.com</a></li>
           <li>Barcelona</li>
         </ul>
       </div>
@@ -267,7 +271,7 @@ const HomePage = ({ scrollToSection, formData, setFormData, handleChange }) => (
       <div className="container">
         <div className="about-wrapper">
           <div className="about-image">
-            <img src="/src/assets/sobre-nosotros.png" alt="IndexIA Solutions Office" className="glass-img" />
+            <img src="/sobre-nosotros.png" alt="IndexIA Solutions Office" className="glass-img" />
           </div>
           <div className="about-text">
             <span className="section-eyebrow">Sobre Nosotros</span>
