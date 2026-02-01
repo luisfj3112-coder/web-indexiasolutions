@@ -6,7 +6,7 @@ const Chatbot = () => {
     const [inputValue, setInputValue] = useState('');
     const [isLoading, setIsLoading] = useState(false);
     const [messages, setMessages] = useState([
-        { text: "¡Hola! Soy el asistente IA de IndexIA Solutions. ¿En qué puedo ayudarte hoy?", isBot: true }
+        { text: "¡Hola! Soy el asistente IA de Idexia Solutions. ¿En qué puedo ayudarte hoy?", isBot: true }
     ]);
     const scrollRef = useRef(null);
 
@@ -60,7 +60,7 @@ const Chatbot = () => {
             {isOpen && (
                 <div className="chat-window glass">
                     <div className="chat-header">
-                        <h4>IndexIA <span className="text-gradient">Asistente</span></h4>
+                        <h4>Idexia <span className="text-gradient">Asistente</span></h4>
                         <button className="close-btn" onClick={() => setIsOpen(false)}>×</button>
                     </div>
 
