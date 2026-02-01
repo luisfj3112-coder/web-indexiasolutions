@@ -12,7 +12,7 @@ const Nav = ({ scrollToSection }) => (
     <div className="container">
       <div className="nav-left">
         <Link to="/" className="logo-link">
-          <h1 className="logo-text">Index<span className="text-highlight">IA</span> <span className="logo-sub">solutions</span></h1>
+          <h1 className="logo-text">Idexia <span className="logo-sub">solutions</span></h1>
         </Link>
       </div>
       <ul className="nav-links">
@@ -34,10 +34,10 @@ const Footer = ({ scrollToSection }) => (
     <div className="container footer-grid">
       <div className="footer-col company-info">
         <Link to="/" className="logo-link">
-          <h1 className="logo-text">Index<span className="text-highlight">IA</span> <span className="logo-sub">solutions</span></h1>
+          <h1 className="logo-text">Idexia <span className="logo-sub">solutions</span></h1>
         </Link>
         <p className="footer-tagline">
-          Comienza la automatización de tu empresa o negocio con <strong>IndexIA Solutions</strong> y nuestros servicios de Inteligencia Artificial para mejorar la productividad.
+          Comienza la automatización de tu empresa o negocio con <strong>Idexia Solutions</strong> y nuestros servicios de Inteligencia Artificial para mejorar la productividad.
         </p>
       </div>
 
@@ -94,7 +94,7 @@ const Footer = ({ scrollToSection }) => (
     </div>
     <div className="footer-bottom">
       <div className="container">
-        <p>&copy; 2026 IndexIA Solutions. Elevating Business with Agentic AI.</p>
+        <p>&copy; 2026 Idexia Solutions. Elevating Business with Agentic AI.</p>
       </div>
     </div>
   </footer>
@@ -273,7 +273,7 @@ const HomePage = ({ scrollToSection, formData, setFormData, handleChange }) => (
             <span className="section-eyebrow">Sobre Nosotros</span>
             <h3 className="section-title">Impulsando el Futuro con <span className="text-gradient">IA Agentic</span></h3>
             <p className="about-description">
-              En <strong>IndexIA Solutions</strong>, no solo creamos herramientas; desarrollamos compañeros digitales inteligentes. Nuestra misión es transformar la forma en que las empresas operan, permitiéndoles escalar sin límites mediante la automatización de procesos complejos y la implementación de agentes de IA de última generación.
+              En <strong>Idexia Solutions</strong>, no solo creamos herramientas; desarrollamos compañeros digitales inteligentes. Nuestra misión es transformar la forma en que las empresas operan, permitiéndoles escalar sin límites mediante la automatización de procesos complejos y la implementación de agentes de IA de última generación.
             </p>
             <p className="about-description">
               Nacimos con la visión de democratizar el acceso a la tecnología Agentic, ayudando a negocios de todos los tamaños a ahorrar tiempo crítico y multiplicar sus conversiones. Con un enfoque en la innovación constante, nos aseguramos de que cada solución sea tan única como el cliente al que servimos.

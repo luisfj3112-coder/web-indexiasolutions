@@ -23,7 +23,7 @@ const PrivacyPolicy = () => {
                         <section>
                             <h3>1. Responsable del Tratamiento</h3>
                             <ul>
-                                <li><strong>Titular:</strong> IndexIA Solutions</li>
+                                <li><strong>Titular:</strong> Idexia Solutions</li>
                                 <li><strong>Servicios:</strong> Consultoría y Automatización con IA Agentic.</li>
                                 <li><strong>Localización:</strong> Barcelona, España.</li>
                                 <li><strong>Contacto Directo:</strong> <a href="mailto:relat@indexiasolutions.com">relat@indexiasolutions.com</a></li>
@@ -53,7 +53,7 @@ const PrivacyPolicy = () => {
                         <section>
                             <h3>4. Tratamiento de Datos por Sistemas de IA</h3>
                             <p>
-                                En <strong>IndexIA Solutions</strong> utilizamos modelos de inteligencia artificial avanzados para mejorar la eficiencia de nuestros servicios. Le garantizamos que:
+                                En <strong>Idexia Solutions</strong> utilizamos modelos de inteligencia artificial avanzados para mejorar la eficiencia de nuestros servicios. Le garantizamos que:
                             </p>
                             <ul>
                                 <li>Sus datos personales no se utilizan para entrenar modelos públicos de terceros sin su consentimiento explícito y anonimización previa.</li>
@@ -64,7 +64,7 @@ const PrivacyPolicy = () => {
                         <section>
                             <h3>5. Derechos del Usuario</h3>
                             <p>
-                                Usted tiene derecho a obtener confirmación sobre si en IndexIA Solutions estamos tratando sus datos personales. Por tanto, tiene derecho a:
+                                Usted tiene derecho a obtener confirmación sobre si en Idexia Solutions estamos tratando sus datos personales. Por tanto, tiene derecho a:
                             </p>
                             <ul>
                                 <li>Acceder a sus datos personales.</li>
